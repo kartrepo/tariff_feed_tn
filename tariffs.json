@@ -1,0 +1,17 @@
+{
+  "version": "2025-07-01",
+  "source": "TNERC Tariff Order (suo motu revision)",
+  "effective_from": "2025-07-01",
+  "currency": "INR",
+  "billing_cycle_days": 60,
+  "slabs": [
+    { "upto_kwh": 100, "rate": 0.00 },
+    { "upto_kwh": 200, "rate": 2.35 },
+    { "upto_kwh": 400, "rate": 4.70 },
+    { "upto_kwh": 500, "rate": 6.30 },
+    { "upto_kwh": 600, "rate": 8.40 },
+    { "upto_kwh": 800, "rate": 9.45 },
+    { "upto_kwh": 1000, "rate": 10.50 },
+    { "upto_kwh": null, "rate": 11.55 }
+  ]
+}
