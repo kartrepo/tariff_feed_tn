@@ -6,7 +6,7 @@
   "billing_cycle_days": 60,
   "slabs": [
     {
-      "upto_kwh": 10,
+      "upto_kwh": 100,
       "rate": 0.00
     },
     {
